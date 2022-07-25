@@ -38,6 +38,7 @@
 - [Multichain](https://docs.multichain.org/getting-started/introduction) - Generalised cross-chain message passing
 - [Synapse](https://docs.synapseprotocol.com/) - Swaps
 - [Wormhole](https://book.wormholenetwork.com/) - Generalised cross-chain message passing
+- [Interlay](https://docs.interlay.io/#/) - Swaps
 
 ### PoS Validator Set
 
