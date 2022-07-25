@@ -60,8 +60,6 @@ Links to projects, guides, articles, videos and any related content.
 
 - [Bitcoin Lighting](https://docs.lightning.engineering/the-lightning-network/overview) - Swaps between Bitcoin and Bitcoin Lighting
 
-## General Interoperability
-
 ## Articles, Papers
 
 - [Blockchain Bridges: Building Networks of Cryptonetworks](https://medium.com/1kxnetwork/blockchain-bridges-5db6afac44f8) by Dmitriy Berenzon
