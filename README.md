@@ -34,7 +34,7 @@ Links to projects, guides, articles, videos and any related content.
 - [Ethereum BTC Relay](https://github.com/ethereum/btcrelay) - A BTC relay on Ethereum
 - [Stateless BTC Relay](https://github.com/summa-tx/relays) - An improved stateless BTC relay on Ethereum
 
-### Proof of Authority (PoA) Validator set
+### Proof Of Authority (PoA) Validator set
 
 - [Chainswap](https://docs.chainswap.com/) - Swaps
 - [LayerZero](https://layerzero.gitbook.io/docs/) - Generalised cross-chain message passing
