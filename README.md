@@ -78,6 +78,7 @@
 - [The Zero Knowledge Podcast: Designing Optimistic Interoperability with Nomad](https://www.youtube.com/watch?v=jBGVy2uVy2U) - An overview of Nomad and it's optimistic design
 - [The Zero Knowledge Podcast: Through the Wormhole with Jump Crypto](https://www.youtube.com/watch?v=N-gayIFspno) - An overview of LayerZero and the tradeoffs of Validator Bridges
 - [The problem with cross-chain Governance](https://www.youtube.com/watch?v=MmMpB6PxXrs&t) - An overview of cross-chain Governance and Nomad's solution
+- [Whiteboard Series with NEAR | Ep: 12 James Prestwich from Summa](https://www.youtube.com/watch?v=0kaFloM9Qx4) - An overview of cross-chain designs with a focus on stateless SPVs
 
 ## Discussions
 
