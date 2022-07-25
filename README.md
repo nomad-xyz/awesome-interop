@@ -1,4 +1,5 @@
 <div align="center">
+  <img alt="awesome interop logo" src="./assets/cover.jpg" width="500">
   <h1 align="center">Awesome Interoperability</h1>
   <p align="center">
     <a href="https://github.com/sindresorhus/awesome">
@@ -21,6 +22,8 @@
 </div>
 
 # Resources
+
+Links to projects, guides, articles, videos and any related content.
 
 ## Projects
 
@@ -56,8 +59,6 @@
 ### Hashed Timelock Contract (HTLC)
 
 - [Bitcoin Lighting](https://docs.lightning.engineering/the-lightning-network/overview) - Swaps between Bitcoin and Bitcoin Lighting
-
-## General Interoperability
 
 ## Articles, Papers
 
@@ -103,6 +104,8 @@
 - [Unity is Strength: A Formalization of Cross-Domain Maximal Extractable Value](https://arxiv.org/abs/2112.01472)- First approach in formalizing cross-domain MEV
 
 # Job Board
+
+Find a gig in the interoperability space!
 
 - [Abacus](https://jobs.lever.co/Abacus/)
 - [Axelar](https://axelar.network/careers)
