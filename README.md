@@ -39,6 +39,7 @@
 - [Synapse](https://docs.synapseprotocol.com/) - Swaps
 - [Wormhole](https://book.wormholenetwork.com/) - Generalised cross-chain message passing
 - [Interlay](https://docs.interlay.io/#/) - Swaps
+- [Hop](https://docs.hop.exchange/) - L2 <-> L1 swaps
 
 ### PoS Validator Set
 
