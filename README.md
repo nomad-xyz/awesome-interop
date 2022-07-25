@@ -27,9 +27,9 @@
 ### Light Clients - SPV
 
 - [Inter-Blockchain Communication Protocol](https://tutorials.cosmos.network/academy/4-ibc/what-is-ibc.html) - The IBC specification used in Cosmos' cross-chain communication protocol
+- [Interlay](https://docs.interlay.io/#/) - Swaps
 - [Ethereum BTC Relay](https://github.com/ethereum/btcrelay) - A BTC relay on Ethereum
 - [Stateless BTC Relay](https://github.com/summa-tx/relays) - An improved stateless BTC relay on Ethereum
-- [Interlay](https://docs.interlay.io/#/) - Swaps
 
 ### Proof of Authority (PoA) Validator set
 
