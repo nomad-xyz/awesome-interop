@@ -1,4 +1,5 @@
 <div align="center">
+  <img alt="awesome interop logo" src="./assets/cover.jpg" width="200">
   <h1 align="center">Awesome Interoperability</h1>
   <p align="center">
     <a href="https://github.com/sindresorhus/awesome">
