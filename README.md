@@ -23,6 +23,8 @@
 
 # Resources
 
+Links to projects, guides, articles, videos and any related content.
+
 ## Projects
 
 ### Light Clients - SPV
@@ -104,6 +106,8 @@
 - [Unity is Strength: A Formalization of Cross-Domain Maximal Extractable Value](https://arxiv.org/abs/2112.01472)- First approach in formalizing cross-domain MEV
 
 # Job Board
+
+Find a gig in the interoperability space!
 
 - [Abacus](https://jobs.lever.co/Abacus/)
 - [Axelar](https://axelar.network/careers)
