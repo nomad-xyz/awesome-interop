@@ -26,36 +26,36 @@
 
 ### Light Clients - SPV
 
-- [Cross-Consensus Message Format (XCM)](https://wiki.polkadot.network/docs/learn-crosschain) - The XCM specification used in Polkadot's cross-chain communication protocol
 - [Inter-Blockchain Communication Protocol](https://tutorials.cosmos.network/academy/4-ibc/what-is-ibc.html) - The IBC specification used in Cosmos' cross-chain communication protocol
+- [Interlay](https://docs.interlay.io/#/) - Swaps
 - [Ethereum BTC Relay](https://github.com/ethereum/btcrelay) - A BTC relay on Ethereum
 - [Stateless BTC Relay](https://github.com/summa-tx/relays) - An improved stateless BTC relay on Ethereum
 
-### PoA Validator set
+### Proof of Authority (PoA) Validator set
 
 - [Chainswap](https://docs.chainswap.com/) - Swaps
 - [LayerZero](https://layerzero.gitbook.io/docs/) - Generalised cross-chain message passing
 - [Multichain](https://docs.multichain.org/getting-started/introduction) - Generalised cross-chain message passing
 - [Synapse](https://docs.synapseprotocol.com/) - Swaps
 - [Wormhole](https://book.wormholenetwork.com/) - Generalised cross-chain message passing
-- [Interlay](https://docs.interlay.io/#/) - Swaps
 - [Hop](https://docs.hop.exchange/) - L2 <-> L1 swaps
 
-### PoS Validator Set
+### Proof Of Stake (PoS) Validator Set
 
 - [Abacus](https://docs.useabacus.network/abacus-docs/introduction/what-is-abacus) - Generalised cross-chain message passing
 - [Axelar](https://docs.axelar.dev/) - Generalised cross-chain message passing
-- [ThorChain](https://thorchain.org/document-library) - Swaps
+- [Cross-Consensus Message Format (XCM)](https://wiki.polkadot.network/docs/learn-crosschain) - The XCM specification used in Polkadot's cross-chain communication protocol
+- [THORChain](https://thorchain.org/document-library) - Swaps
 
 ### Optimistic
 
-- [Nomad.xyz](https://docs.nomad.xyz/) - Generalised cross-chain message passing
+- [Connext](https://docs.connext.network/) - Liquidity Network on top of Nomad
+- [NEAR Rainbow Bridge](https://near.org/bridge/) - Swaps between ETH and NEAR
+- [Nomad](https://docs.nomad.xyz/) - Generalised cross-chain message passing
 
 ### Hashed Timelock Contract (HTLC)
 
-### Liquidity Networks
-
-- [Connext](https://docs.connext.network/) - Liquidity Network on top of Nomad
+- [Bitcoin Lighting](https://docs.lightning.engineering/the-lightning-network/overview) - Swaps between Bitcoin and Bitcoin Lighting
 
 ## General Interoperability
 
@@ -109,7 +109,7 @@
 - [Connext](https://jobs.connext.network/Connext-Job-Board-d89dc91421794b47ab4a2356495a2a9c)
 - [LayerZero](https://boards.greenhouse.io/layerzerolabs)
 - [Multichain](https://docs.multichain.org/getting-started/careers)
-- [Nomad.xyz](https://boards.greenhouse.io/nomad)
+- [Nomad](https://boards.greenhouse.io/nomad)
 - [Wormhole](https://boards.greenhouse.io/wormhole)
 
 # Tools
@@ -121,4 +121,4 @@
 
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law,[Nomad.xyz](https://github.com/nomad-xyz) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [Nomad.xyz](https://github.com/nomad-xyz) has waived all copyright and related or neighboring rights to this work.
