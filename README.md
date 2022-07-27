@@ -55,6 +55,7 @@ Links to projects, guides, articles, videos and any related content.
 - [Connext](https://docs.connext.network/) - Liquidity Network on top of Nomad
 - [NEAR Rainbow Bridge](https://near.org/bridge/) - Swaps between ETH and NEAR
 - [Nomad](https://docs.nomad.xyz/) - Generalised cross-chain message passing
+- [Perun](https://tutorial.perun.network/) - State channel library with multi-chain support
 
 ### Hashed Timelock Contract (HTLC)
 
