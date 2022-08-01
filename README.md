@@ -42,6 +42,7 @@ Links to projects, guides, articles, videos and any related content.
 - [Synapse](https://docs.synapseprotocol.com/) - Swaps
 - [Wormhole](https://book.wormholenetwork.com/) - Generalised cross-chain message passing
 - [Hop](https://docs.hop.exchange/) - L2 <-> L1 swaps
+- [Router Protocol](https://docs.routerprotocol.com/whitepaper/abstract) - Generalised cross-chain message passing
 
 ### Proof Of Stake (PoS) Validator Set
 
