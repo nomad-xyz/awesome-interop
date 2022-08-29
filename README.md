@@ -60,6 +60,10 @@ Links to projects, guides, articles, videos and any related content.
 
 - [Bitcoin Lighting](https://docs.lightning.engineering/the-lightning-network/overview) - Swaps between Bitcoin and Bitcoin Lighting
 
+### Cross-chain Computation Platforms
+
+- [Coinweb](https://coinweb.io) - Blockchain agnostic interoperability platform
+
 ## Articles, Papers
 
 - [Blockchain Bridges: Building Networks of Cryptonetworks](https://medium.com/1kxnetwork/blockchain-bridges-5db6afac44f8) by Dmitriy Berenzon
@@ -114,6 +118,7 @@ Find a gig in the interoperability space!
 - [Multichain](https://docs.multichain.org/getting-started/careers)
 - [Nomad](https://boards.greenhouse.io/nomad)
 - [Wormhole](https://boards.greenhouse.io/wormhole)
+- [Coinweb](https://coinweb.io/jobs)
 
 # Tools
 
