@@ -55,7 +55,7 @@ Links to projects, guides, articles, videos and any related content.
 - [Connext](https://docs.connext.network/) - Liquidity Network on top of Nomad
 - [NEAR Rainbow Bridge](https://near.org/bridge/) - Swaps between ETH and NEAR
 - [Nomad](https://docs.nomad.xyz/) - Generalised cross-chain message passing
-- [Across](https://docs.across.to/v2/) - Swaps
+- [Across](https://docs.across.to/v2/) - Swaps on top of UMA
 
 ### Hashed Timelock Contract (HTLC)
 
