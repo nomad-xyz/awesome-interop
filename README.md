@@ -58,7 +58,7 @@ Links to projects, guides, articles, videos and any related content.
 
 ### Hashed Timelock Contract (HTLC)
 
-- [Bitcoin Lighting](https://docs.lightning.engineering/the-lightning-network/overview) - Swaps between Bitcoin and Bitcoin Lighting
+- [Bitcoin Lightning](https://docs.lightning.engineering/the-lightning-network/overview) - Swaps between Bitcoin and Bitcoin Lightning
 
 ## Articles, Papers
 
