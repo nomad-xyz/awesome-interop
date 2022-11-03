@@ -68,6 +68,7 @@ Links to projects, guides, articles, videos and any related content.
 - [Optimistic Bridges: A New Paradigm for Crosschain Communication](https://blog.connext.network/optimistic-bridges-fb800dc7b0e0) - An overview of the optimistic design for cross-chain communication
 - [SoK: Communication Across Distributed Ledgers](https://eprint.iacr.org/2019/1128) - Systemization of Knowledge for the cross-chain domain
 - [The Interoperability Trilemma](https://blog.connext.network/the-interoperability-trilemma-657c2cf69f17) - The trillema of interoperability
+- [Trustless Bridging II: Byzantine Fault Tolerance: Securing light client-based bridges in the event of byzantine attacks](https://medium.com/composable-finance/trustless-bridging-ii-byzantine-fault-tolerance-591e8b2d196e)
 - [With Bridges, Trust is a Spectrum](https://blog.li.fi/li-fi-with-bridges-trust-is-a-spectrum-354cd5a1a6d8) - The different trust assumptions that exist in cross-chain protocols
 
 ## Podcasts, Videos
