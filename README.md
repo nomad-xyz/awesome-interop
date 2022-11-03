@@ -114,6 +114,7 @@ Find a gig in the interoperability space!
 - [LayerZero](https://boards.greenhouse.io/layerzerolabs)
 - [Multichain](https://docs.multichain.org/getting-started/careers)
 - [Nomad](https://boards.greenhouse.io/nomad)
+- [Spanning Labs](https://www.spanninglabs.com/#careers)
 - [Wormhole](https://boards.greenhouse.io/wormhole)
 
 # Tools
