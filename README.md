@@ -64,8 +64,10 @@ Links to projects, guides, articles, videos and any related content.
 
 ## Articles, Papers
 
+- [A Survey on Blockchain Interoperability: Past, Present, and Future Trends](https://dl.acm.org/doi/10.1145/3471140) - Survey for the cross-chain domain
 - [Blockchain Bridges: Building Networks of Cryptonetworks](https://medium.com/1kxnetwork/blockchain-bridges-5db6afac44f8) by Dmitriy Berenzon
 - [Clusters: how trusted & trust-minimized bridges shape the multi-chain landscape](https://blog.celestia.org/clusters/) by Mustafa Al-Bassam
+- [Do You Need a Distributed Ledger Technology Interoperability Solution?](https://dl.acm.org/doi/10.1145/3564532) - Evaluating blockchain interoperability solutions
 - [Ethereum Bridges Documentation](https://ethereum.org/en/developers/docs/bridges/) - The ethereum bridges
 - [Optimistic Bridges: A New Paradigm for Crosschain Communication](https://blog.connext.network/optimistic-bridges-fb800dc7b0e0) - An overview of the optimistic design for cross-chain communication
 - [SoK: Communication Across Distributed Ledgers](https://eprint.iacr.org/2019/1128) - Systemization of Knowledge for the cross-chain domain
@@ -76,6 +78,7 @@ Links to projects, guides, articles, videos and any related content.
 ## Podcasts, Videos
 
 - [Axelar: Solving Interoperability across Blockchains](https://www.youtube.com/watch?v=m2RF_yWE6xo) - An overview of Axelar
+- [Blockchain Interoperability with Hyperledger Cacti workshop](https://www.youtube.com/watch?v=TM-dnP2yzRM) - A 3-hour workshop on Hyperledger Cacti
 - [Burning Bridges: The Pitfalls of Multisig Bridges](https://www.youtube.com/watch?v=0L9G1zKjpqA) - What are the common pitfalls of Multisig Bridges
 - [CSCON[0] Breaking Down Bridges](https://www.youtube.com/watch?v=b0mC-ZqN8Oo) -
 - [Cross-app Communication Panel](https://youtube.com/watch?v=EYzYAokCVgM) - The state of cross-chain communication and it's challenges
