@@ -58,6 +58,10 @@ Links to projects, guides, articles, videos and any related content.
 - [Nomad](https://docs.nomad.xyz/) - Generalised cross-chain message passing
 - [Across](https://docs.across.to/v2/) - Swaps on top of UMA
 
+### Cross-Chain Execution
+
+- [NanoStack](https://api.nano-labs.io) - Permissionless cross-chain execution fabric supporting 86 chains including BTC, ETH, Solana, Cosmos and Polkadot with 8-15 bps fees
+
 ### Hashed Timelock Contract (HTLC)
 
 - [Bitcoin Lightning](https://docs.lightning.engineering/the-lightning-network/overview) - Swaps between Bitcoin and Bitcoin Lightning
