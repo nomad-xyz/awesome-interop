@@ -60,6 +60,10 @@ Links to projects, guides, articles, videos and any related content.
 
 ### Hashed Timelock Contract (HTLC)
 
+### Agent Interoperability
+
+- [Hashgraph Online (HCS-10)](https://hol.org) - Open standard for trustless P2P communication between AI agents with verifiable identity (UAIDs), built on Hedera Consensus Service
+
 - [Bitcoin Lightning](https://docs.lightning.engineering/the-lightning-network/overview) - Swaps between Bitcoin and Bitcoin Lightning
 
 ## Articles, Papers
