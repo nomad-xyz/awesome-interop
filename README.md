@@ -62,6 +62,10 @@ Links to projects, guides, articles, videos and any related content.
 
 - [Bitcoin Lightning](https://docs.lightning.engineering/the-lightning-network/overview) - Swaps between Bitcoin and Bitcoin Lightning
 
+## Tools and Monitoring
+
+- [OpenChainBench](https://openchainbench.com) - Continuous cross-chain bridge fee and latency benchmarks, plus IBC message delivery time monitoring across 20+ chains. MIT licensed, open-source.
+
 ## Articles, Papers
 
 - [Blockchain Bridges: Building Networks of Cryptonetworks](https://medium.com/1kxnetwork/blockchain-bridges-5db6afac44f8) by Dmitriy Berenzon
